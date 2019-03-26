@@ -17,7 +17,7 @@
 # Please file any issues or PRs at https://github.com/gocd/docker-gocd-agent
 ###############################################################################################
 
-FROM alpine:3.8
+FROM alpine:3.9.2
 MAINTAINER GoCD <go-cd-dev@googlegroups.com>
 
 LABEL gocd.version="19.2.0" \
